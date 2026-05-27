@@ -1,0 +1,6 @@
+@scripture_hub_server_HostAddress = http://localhost:5037
+
+GET {{scripture_hub_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
